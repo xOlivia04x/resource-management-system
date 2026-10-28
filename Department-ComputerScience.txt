@@ -1,0 +1,5 @@
+Computer-Science
+9972.75 , Upgrade-Fox-Machines
+128000000.00 , New-Data-Science-Building
+500.00 , Donuts-For-ICPC-Club
+1999.99 , Gaming-Laptop

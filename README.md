@@ -2,8 +2,6 @@
 
 A coursework-based Java program that simulates distributing a limited budget among university departments. It uses a priority queue to select departments, reads requested purchases from text files, and reports funded and unfunded items.
 
-> **Portfolio status:** Private coursework archive. Check your course's academic-integrity and starter-code sharing rules before publishing. This repository includes assignment-provided driver/test data and may contain instructor-provided code.
-
 ## Concepts demonstrated
 - Java classes and object-oriented programming
 - `PriorityQueue` and `LinkedList`
